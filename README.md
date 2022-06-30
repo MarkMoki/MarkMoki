@@ -26,3 +26,7 @@ Fun fact: I love music alot.
 <a href="https://github.com/marketplace/actions/quote-readme">
 • <i>In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”</i>
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
