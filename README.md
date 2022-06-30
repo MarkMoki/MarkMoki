@@ -1,4 +1,4 @@
-Hola, 👋 I'm Moki Mark
+Hi there, I'm Mark! 👋   
 
 - 😄 Pronouns: He/His.
 - 🔭 I’m currently working on Machine Learning.
