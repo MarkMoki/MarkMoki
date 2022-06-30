@@ -4,13 +4,17 @@
 <!-- h1 align="center">Hi there, I'm Mark! 👋</h1-->   
 
 
-```
+> *Nothing surpasses nurturing people as a lifelong goal<br>
+>인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
+
+
+```yaml
 Pronouns: He/His.
-I’m currently working on Machine Learning.
-I’m currently learning more about Artificial Intelligence.
-I’m looking to collaborate on Google.
-I’m looking for help with Automation using Python.
-Ask me about:tech-related stuff.
+working on: Machine Learning.
+learning more about: Artificial Intelligence.
+looking to collaborate on: Google.
+looking for help with: Automation using Python.
+Ask me about: tech-related stuff.
 email: tygameme391@gmail.com
 Fun fact: I love music alot.
 ```
