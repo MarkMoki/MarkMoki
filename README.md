@@ -2,7 +2,6 @@ Hi there, I'm Mark! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmoki&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmoki&show_icons=true)
 - 😄 Pronouns: He/His.
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning more about Artificial Intelligence.
