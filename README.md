@@ -15,8 +15,9 @@ Fun fact: I love music alot.
 ```
 <p align="center">
 <br/>
-<a href="https://www.instagram.com/iousernamme404">
+<a href="https://www.instagram.com/iousername404">
   <img alt="alien's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+  </a>
 <br>
 </p>
 
