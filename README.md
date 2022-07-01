@@ -19,8 +19,24 @@ email: tygameme391@gmail.com
 Fun fact: I love music alot.
 ```
 
-<img alighn="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=markmoki&show_icons=true&theme=radical" />
+<details  align="center">	
+  <summary><b> Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmoki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <br>
+   <!-- img width="200" alt="Gavin Ondari" align="right" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png" -->
+
+</details>
+<details  align="center">	
+  <summary><b> Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=markmoki&hide_border=true" />
+</details>
+<hr>
+
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <hr>
