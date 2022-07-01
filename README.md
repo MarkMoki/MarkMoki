@@ -24,7 +24,7 @@ Fun fact: I love music alot.
 <hr>
 
 <a href="https://github.com/marketplace/actions/quote-readme">
-• <i>In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”</i>
+• <i>“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon</i>
 </a>
 
 <p align="left">
