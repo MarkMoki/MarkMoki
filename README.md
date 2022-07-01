@@ -1,12 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=MarkMoki%20&fontAlignY=40&color=gradient&) 
 
-
-<!-- h1 align="center">Hi there, I'm Mark! 👋</h1-->   
-
-
 > *Nothing surpasses nurturing people as a lifelong goal<br>
 >인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
-
 
 ```yaml
 Pronouns: He/His.
@@ -21,11 +16,10 @@ Fun fact: I love music alot.
 
 <details  align="center">	
   <summary><b> Github Stats</b></summary>
-
-  <br />
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmoki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <br>
-   <!-- img width="200" alt="Gavin Ondari" align="right" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png" -->
+   <!-- img width="200" alt="Mark Moki" align="right" src="https://raw.githubusercontent.com/poeticjustice1/poeticjustice1/master/squirrel2.1.png" -->
 
 </details>
 <details  align="center">	
