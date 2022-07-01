@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=MarkMoki%20&fontAlignY=40&color=gradient&) 
+![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Mark_Moki%20&fontAlignY=40&color=gradient&) 
 
 > *Nothing surpasses nurturing people as a lifelong goal<br>
 >인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
@@ -13,6 +13,12 @@ Ask me about: tech-related stuff.
 email: tygameme391@gmail.com
 Fun fact: I love music alot.
 ```
+<p align="center">
+<br/>
+<a href="https://www.instagram.com/iousernamme404">
+  <img alt="alien's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+<br>
+</p>
 
 <details  align="center">	
   <summary><b> Github Stats</b></summary>
