@@ -5,7 +5,7 @@
 
 
 ```
-Pronouns: He/His.
+
 I’m currently working on Machine Learning.
 I’m currently learning more about Artificial Intelligence.
 I’m looking to collaborate on Google.
