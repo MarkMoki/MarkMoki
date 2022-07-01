@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Mark_Moki%20&fontAlignY=40&color=gradient&) 
+![waving](https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Mark%20Moki%20&fontAlignY=40&color=gradient&) 
 
 > *Nothing surpasses nurturing people as a lifelong goal<br>
 >인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
