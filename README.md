@@ -6,10 +6,10 @@
 
 ```
 
-I’m currently working on Machine Learning.
-I’m currently learning more about Artificial Intelligence.
+I’m currently Working on Frontend and Backend Web development.
+
 I’m looking to collaborate on Google.
-I’m looking for help with Automation using Python.
+
 Ask me about:tech-related stuff.
 email: tygameme391@gmail.com
 Fun fact: I love music alot.
