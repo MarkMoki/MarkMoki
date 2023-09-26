@@ -8,7 +8,7 @@
 
 I’m currently Working on Frontend and Backend Web development.
 
-I’m looking to collaborate on Google.
+I’m eager to learn more.
 
 Ask me about:tech-related stuff.
 email: tygameme391@gmail.com
