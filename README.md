@@ -1,6 +1,6 @@
 # 💫 About Me
 
-With over two decades of experience in web development, I bring a wealth of knowledge in both frontend and backend technologies, along with expertise in cloud services, DevOps, and cutting-edge frameworks. My goal is to build seamless, scalable digital solutions that empower businesses and delight users.
+With vast experience in web development, I bring a wealth of knowledge in both frontend and backend technologies, along with expertise in cloud services, DevOps, and cutting-edge frameworks. My goal is to build seamless, scalable digital solutions that empower businesses and delight users.
 
 🌐 Frontend Development
 I'm skilled in crafting dynamic and engaging user interfaces using React, Vue.js, Angular, Next.js, and Flutter. Whether it's building responsive layouts with TailwindCSS or creating immersive 3D experiences with Three.js, I focus on delivering pixel-perfect designs that create intuitive and enjoyable user journeys.
