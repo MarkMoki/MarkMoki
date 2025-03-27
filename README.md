@@ -1,5 +1,28 @@
-# 💫 About Me:
-I'm deeply engrossed in the art of web development, seamlessly weaving frontend elegance and backend robustness<br>into digital experiences. With a penchant for crafting intuitive user interfaces and architecting scalable systems,<br>I thrive in the dynamic realm of web technologies.<br><br>🌐 Frontend aficionado: Fluent in HTML, CSS, JavaScript, and adept at various frameworks like React, Vue, and Angular.<br>   Designing captivating user journeys and pixel-perfect interfaces is my forte.<br><br>💻 Backend maestro: Proficient in backend technologies such as Node.js, Python, and Ruby on Rails. Building scalable APIs,<br>   optimizing databases, and ensuring seamless functionality are all in a day's work.<br><br>🔍 Eager learner: Constantly exploring new paradigms, tools, and methodologies to enhance my craft. I'm always on the<br>   lookout for innovative solutions to propel projects forward.<br><br>🚀 Passion for innovation: Believer in the power of code to shape the future. Whether it's optimizing performance or<br>   implementing the latest tech, I'm driven by the pursuit of excellence.<br><br>Let's connect and collaborate to engineer remarkable digital experiences! Together, let's push boundaries and innovate<br>in the ever-evolving landscape of web development. #CodeCraftsman #FullStackDreamer #FullStackJourney.
+# 💫 About Me
+
+With over two decades of experience in web development, I bring a wealth of knowledge in both frontend and backend technologies, along with expertise in cloud services, DevOps, and cutting-edge frameworks. My goal is to build seamless, scalable digital solutions that empower businesses and delight users.
+
+🌐 Frontend Development
+I'm skilled in crafting dynamic and engaging user interfaces using React, Vue.js, Angular, Next.js, and Flutter. Whether it's building responsive layouts with TailwindCSS or creating immersive 3D experiences with Three.js, I focus on delivering pixel-perfect designs that create intuitive and enjoyable user journeys.
+
+💻 Backend Development
+I specialize in Node.js, Python, Kotlin, PHP, and Ruby on Rails, with extensive experience in designing and developing scalable APIs using Express.js, Django, Flask, and Laravel. From database optimization to server-side logic, I ensure that the backend architecture runs smoothly, providing a solid foundation for high-performing applications.
+
+☁️ Cloud & DevOps Expertise
+Leveraging cloud platforms like AWS, Azure, and Google Cloud, I’m well-versed in deploying applications to the cloud with services such as Firebase, Vercel, and Netlify. I also have hands-on experience with Docker, Kubernetes, and CI/CD tools like Jenkins to ensure efficient, scalable, and automated deployment pipelines.
+
+🔍 Data & AI
+With a passion for data science, I’ve worked extensively with TensorFlow, Matplotlib, and Anaconda to build machine learning models and visualize complex data. I thrive on turning data into actionable insights that drive smarter decisions.
+
+📊 Version Control & Tools
+I'm proficient in using Git, GitHub, GitLab, and modern package managers like NPM, Yarn, and PNPM to manage code and collaborate with teams. My development workflow is optimized with tools like Babel, Postman, and Power BI to enhance productivity and streamline testing.
+
+🚀 Passionate Innovator
+I’m constantly exploring new tools, frameworks, and methodologies to stay ahead of the curve. Whether it’s optimizing performance, improving user experience, or integrating the latest technologies, I’m always driven by a passion for innovation and continuous improvement.
+
+Let’s connect and collaborate to build exceptional digital experiences that push the boundaries of what's possible in web development. #FullStackDeveloper #TechInnovator #DigitalCraftsmanship
+
+
 
 
 ## 🌐 Socials:
@@ -13,10 +36,10 @@ I'm deeply engrossed in the art of web development, seamlessly weaving frontend 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MarkMoki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarkMoki&icon=0&color=0)](https://visitcount.itsvg.in)
