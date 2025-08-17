@@ -16,7 +16,6 @@
   <a href="mailto:moki.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-6fffe9?style=for-the-badge&logo=gmail&logoColor=0b1023" alt="email" /></a>
   <a href="https://github.com/MarkMoki"><img src="https://img.shields.io/github/followers/MarkMoki?label=Follow&style=for-the-badge&color=8a7dff" alt="followers" /></a>
   <a href="https://github.com/MarkMoki?tab=repositories"><img src="https://img.shields.io/github/stars/MarkMoki?affiliations=OWNER&style=for-the-badge&color=ff6bcb" alt="stars" /></a>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MarkMoki&label=Profile%20Views&color=0&icon=0&pretty=true" alt="views" /></a>
 </p>
 
 ---
