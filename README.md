@@ -1,21 +1,31 @@
-<!-- Profile Header -->
+<!-- Intro Statement -->
 <p align="center">
-  <a href="https://github.com/MarkMoki" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0b1023,100:1b2a4a&height=180&section=header&text=Mark%20Moki&fontColor=6fffe9&fontSize=56&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full%E2%80%91Stack%20Engineer%20%E2%80%A2%20Motion%20%26%20Cloud&descAlign=50&descAlignY=62&v=2" />
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=7800&pause=900&color=6FFFE9&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Mark+Moki" alt="Mark Moki header" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3800&pause=900&color=6FFFE9&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+fast%2C+secure%2C+and+scalable+products;High%E2%80%91fidelity+motion+%26+interactive+experiences" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3800&pause=900&color=1a3a8f&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+fast%2C+secure%2C+and+scalable+products;High%E2%80%91fidelity+motion+%26+interactive+experiences" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3800&pause=900&color=6FFFE9&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+fast%2C+secure%2C+and+scalable+products;High%E2%80%91fidelity+motion+%26+interactive+experiences" alt="typing intro" />
+  </picture>
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3800&pause=900&color=6FFFE9&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+fast%2C+secure%2C+and+scalable+products;High%E2%80%91fidelity+motion+%26+interactive+experiences" alt="typing intro" />
-</p>
-
-<p align="center">
-  <a href="mailto:moki.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-6fffe9?style=for-the-badge&logo=gmail&logoColor=0b1023" alt="email" /></a>
-  <a href="https://github.com/MarkMoki"><img src="https://img.shields.io/github/followers/MarkMoki?label=Follow&style=for-the-badge&color=8a7dff" alt="followers" /></a>
-  <a href="https://github.com/MarkMoki?tab=repositories"><img src="https://img.shields.io/github/stars/MarkMoki?affiliations=OWNER&style=for-the-badge&color=ff6bcb" alt="stars" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-6fffe9?style=for-the-badge&logo=gmail&logoColor=0b1023" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-1a3a8f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-6fffe9?style=for-the-badge&logo=gmail&logoColor=0b1023" alt="email" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/MarkMoki?label=Follow&style=for-the-badge&color=8a7dff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/MarkMoki?label=Follow&style=for-the-badge&color=4e42c5" />
+    <img src="https://img.shields.io/github/followers/MarkMoki?label=Follow&style=for-the-badge&color=8a7dff" alt="followers" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/MarkMoki?affiliations=OWNER&style=for-the-badge&color=ff6bcb" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/MarkMoki?affiliations=OWNER&style=for-the-badge&color=c62b85" />
+    <img src="https://img.shields.io/github/stars/MarkMoki?affiliations=OWNER&style=for-the-badge&color=ff6bcb" alt="stars" />
+  </picture>
 </p>
 
 ---
@@ -70,27 +80,56 @@
 
 ### Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarkMoki&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MarkMoki&theme=tokyonight&hide_border=false" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarkMoki&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MarkMoki&show_icons=true&theme=default&hide_border=false&rank_icon=github&title_color=1a3a8f&text_color=0b1023&icon_color=8a7dff" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarkMoki&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MarkMoki&theme=tokyonight&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MarkMoki&theme=default&hide_border=false&ring=1a3a8f&fire=c62b85&currStreakLabel=1a3a8f" />
+    <img height="165" src="https://streak-stats.demolab.com?user=MarkMoki&theme=tokyonight&hide_border=false" alt="streak" />
+  </picture>
 </p>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoki&layout=compact&theme=tokyonight&hide_border=false" alt="top langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoki&layout=compact&theme=tokyonight&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoki&layout=compact&theme=default&hide_border=false&title_color=1a3a8f&text_color=0b1023&icon_color=8a7dff" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoki&layout=compact&theme=tokyonight&hide_border=false" alt="top langs" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=flat&no-frame=true&no-bg=true&margin-w=8&title_color=1a3a8f&text_color=0b1023" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MarkMoki&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMoki&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarkMoki&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarkMoki&theme=react-light&hide_border=true&color=1a3a8f&point=8a7dff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMoki&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  </picture>
 </p>
 
 ---
 
 ### Contact
 <p align="center">
-  <a href="mailto:moki.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-0b1023?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/MarkMoki"><img src="https://img.shields.io/badge/GitHub-MarkMoki-1b2a4a?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1b2a4a,100:0b1023&height=120&section=footer&text=Let's%20build%20something%20exceptional.&fontColor=6fffe9&fontSize=18&fontAlign=50&fontAlignY=50" alt="footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-0b1023?style=for-the-badge&logo=gmail&logoColor=6fffe9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=1a3a8f" />
+    <img src="https://img.shields.io/badge/Email-moki.dev01%40gmail.com-0b1023?style=for-the-badge&logo=gmail&logoColor=6fffe9" alt="email" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-MarkMoki-1b2a4a?style=for-the-badge&logo=github&logoColor=6fffe9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-MarkMoki-acc3ff?style=for-the-badge&logo=github&logoColor=1a3a8f" />
+    <img src="https://img.shields.io/badge/GitHub-MarkMoki-1b2a4a?style=for-the-badge&logo=github&logoColor=6fffe9" alt="github" />
+  </picture>
 </p>
