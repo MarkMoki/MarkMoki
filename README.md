@@ -1,6 +1,11 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b1023,100:1b2a4a&height=180&section=header&text=Mark%20Moki&fontColor=6fffe9&fontSize=56&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full%E2%80%91Stack%20Engineer%20%E2%80%A2%20Motion%20%26%20Cloud&descAlign=50&descAlignY=62" alt="header" />
+  <a href="https://github.com/MarkMoki" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0b1023,100:1b2a4a&height=180&section=header&text=Mark%20Moki&fontColor=6fffe9&fontSize=56&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full%E2%80%91Stack%20Engineer%20%E2%80%A2%20Motion%20%26%20Cloud&descAlign=50&descAlignY=62&v=2" />
+      <img src="https://capsule-render.vercel.app/api?type=wave&color=0:f2f6ff,100:dde6ff&height=180&section=header&text=Mark%20Moki&fontColor=0b1023&fontSize=56&fontAlign=50&fontAlignY=35&desc=Full%E2%80%91Stack%20Engineer%20%E2%80%A2%20Motion%20%26%20Cloud&descAlign=50&descAlignY=62&v=2" alt="Mark Moki header" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
